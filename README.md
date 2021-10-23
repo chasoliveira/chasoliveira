@@ -3,7 +3,7 @@
 A passionate Brazilian full-stack developer always learning new things.
 
 - 🔭 I’m currently working with React, Typescript and .Net Core
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Go, Dart
 
 **Languages and Tools:**  
 
@@ -15,6 +15,7 @@ A passionate Brazilian full-stack developer always learning new things.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" style="background-color:#ffffff;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ---
