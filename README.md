@@ -2,8 +2,8 @@
 
 A passionate Brazilian full-stack developer always learning new things.
 
-- 🔭 I’m currently working with React, Typescript and .Net Core
-- 🌱 I’m currently learning Go, Dart
+- 🔭 I’m currently working with React, Typescript, and .Net Core
+- 🌱 I’m currently learning: Go, Dart
 
 <br>
 <div>
