@@ -13,16 +13,30 @@ A passionate Brazilian full-stack developer always learning new things.
 </div>
 <br>
 
-**Languages and Tools:**
+**Tools:**
 
 <div style="display: inline_block">
   <img alt="Visual Studio" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="VS Code" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+**Frontend:**
+
+<div style="display: inline_block">
   <img alt="HTML5" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="React" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Angular" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+</div>
+
+**Backend:**
+
+<div style="display: inline_block">
   <img alt="C Sharp" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="GoLang" height="26" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'>
   <img alt="Dart" height="26" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'>
