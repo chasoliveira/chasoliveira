@@ -30,8 +30,8 @@ A passionate Brazilian full-stack developer always learning new things.
   <a href="#" title="React"><img alt="React" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="#" title="Angular"><img alt="Angular" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
   <a href="#" title="Vue"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
-  <a href="#" title="Vue"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-  <a href="#" title="Vue"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
+  <a href="#" title="Bootstrap"><img alt="Bootstrap" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
+  <a href="#" title="Material IU"><img alt="Material IU" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
 </div>
 
 **Backend:**
