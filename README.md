@@ -23,23 +23,23 @@ A passionate Brazilian full-stack developer always learning new things.
 **Frontend:**
 
 <div style="display: inline_block">
-  <a href="#"><img alt="HTML5" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="#"><img alt="CSS3" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="#"><img alt="JavaScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href="#"><img alt="TypeScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-  <a href="#"><img alt="React" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="#"><img alt="Angular" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
-  <a href="#"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
-  <a href="#"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-  <a href="#"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
+  <a href="#" title="HTML5"><img alt="HTML5" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="#" title="CSS3"><img alt="CSS3" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="#" title="JavaScript"><img alt="JavaScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="#" title="TypeScript"><img alt="TypeScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  <a href="#" title="React"><img alt="React" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="#" title="Angular"><img alt="Angular" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
+  <a href="#" title="Vue"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>
+  <a href="#" title="Vue"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
+  <a href="#" title="Vue"><img alt="Vue" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
 </div>
 
 **Backend:**
 
 <div style="display: inline_block">
-  <a href="#"><img alt="C Sharp" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
-  <a href="#"><img alt="GoLang" height="26" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'></a>
-  <a href="#"><img alt="Dart" height="26" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'></a>
+  <a href="#" title="C Sharp"><img alt="C Sharp" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
+  <a href="#" title="GoLang"><img alt="GoLang" height="26" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'></a>
+  <a href="#" title="Dart"><img alt="Dart" height="26" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'></a>
 </div>
 
 ---
