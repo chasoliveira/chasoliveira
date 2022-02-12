@@ -16,8 +16,8 @@ A passionate Brazilian full-stack developer always learning new things.
 **Tools:**
 
 <div style="display: inline_block">
-  <a href="#"><img alt="Visual Studio" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
-  <a href="#"><img alt="VS Code" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+  <a href="#" title="Visual Studio"><img alt="Visual Studio" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
+  <a href="#" title="VS Code"><img alt="VS Code" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 </div>
 
 **Frontend:**
