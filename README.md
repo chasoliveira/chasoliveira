@@ -128,6 +128,7 @@ My objective is not to translate C# syntax directly into Rust. It's to understan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="27" height="27" />
 </picture>
 </p>
+
 **Engineering practices:** Clean Architecture · DDD · REST APIs · Automated Testing · CI/CD
 
 **Current interests:** Rust · AI / ML · Local LLM tooling
