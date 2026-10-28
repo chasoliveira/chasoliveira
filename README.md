@@ -135,7 +135,12 @@ My objective is not to translate C# syntax directly into Rust. It's to understan
 
 ## GitHub activity
 
-[![GitHub activity overview](https://github-readme-stats.vercel.app/api?username=chasoliveira&show_icons=true&hide_border=true&theme=transparent)](https://github.com/chasoliveira)
+<div align="center">
+
+<a href="https://github.com/chasoliveira"><img src="https://github-readme-stats.vercel.app/api?username=chasoliveira&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub activity overview" height="170" /></a>
+<a href="https://github.com/chasoliveira?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasoliveira&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Most used languages across public repositories" height="170" /></a>
+
+</div>
 
 <sub>Third-party activity widgets can occasionally be unavailable; the projects and documentation above are the primary portfolio.</sub>
 
