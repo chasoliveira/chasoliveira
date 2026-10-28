@@ -53,12 +53,6 @@ A legal operations platform for managing cases, documents and operational workfl
 
 **Stack:** C# / .NET · React · PostgreSQL · Domain-Driven Design
 
-### [Microservices with .NET, Kubernetes & RabbitMQ](https://github.com/chasoliveira/Microservices-NetCore-Kubernetes-RabbitMQ) · Architecture reference
-
-An earlier hands-on microservices project exploring independent persistence, API gateways, synchronous communication with HTTP/gRPC, asynchronous messaging with RabbitMQ and Kubernetes deployment.
-
-**Stack:** C# / .NET · Kubernetes · RabbitMQ · gRPC
-
 ### Engineering Chronicles · Knowledge sharing
 
 An ongoing initiative to explain software engineering concepts through practical, narrative-driven examples, from fundamentals through architecture and modern AI-assisted development.
@@ -73,7 +67,7 @@ An ongoing initiative to explain software engineering concepts through practical
 | --- | --- | --- |
 | **Rust** | Ownership, borrowing, strong type systems and reliable systems software | [Khabit Finance](https://github.com/chasoliveira/khabit-finance) · [RustTraining](https://github.com/chasoliveira/RustTraining) |
 | **AI engineering** | Practical use of local models, automation and AI-assisted development workflows | [Chaso-Ollama](https://github.com/chasoliveira/Chaso-Ollama) |
-| **Software architecture** | Domain boundaries, scalable designs, testing and architectural trade-offs | [Microservices reference](https://github.com/chasoliveira/Microservices-NetCore-Kubernetes-RabbitMQ) |
+| **Software architecture** | Domain boundaries, scalable designs, testing and architectural trade-offs | Civon (private project) · [Khabit Finance](https://github.com/chasoliveira/khabit-finance) |
 | **Developer experience** | Reproducible development environments and simpler daily workflows | [Chaso-Local-Dev](https://github.com/chasoliveira/Chaso-Local-Dev) |
 
 ### Learning Rust as a C# engineer
