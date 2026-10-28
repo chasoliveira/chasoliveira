@@ -86,13 +86,45 @@ My objective is not to translate C# syntax directly into Rust. It's to understan
 
 ## Technologies & tools
 
-**Primary:** C# · .NET · React · TypeScript · PostgreSQL · Git · Docker
+**Primary stack**
 
-**Architecture & delivery:** Clean Architecture · DDD · REST · RabbitMQ · Kubernetes · GitHub Actions · Automated Testing
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="27" height="27" />
+</p>
 
-**Also working with:** Node.js · Fastify · Python · MongoDB · Linux
+**Architecture & delivery**
 
-**Actively exploring:** Rust · AI / ML · Local LLM tooling
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="27" height="27" />
+</p>
+
+**Also working with**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="27" height="27" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="27" height="27" />
+</p>
+
+**Currently exploring**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="27" height="27" />
+</p>
+**Engineering practices:** Clean Architecture · DDD · REST APIs · Automated Testing · CI/CD
+
+**Current interests:** Rust · AI / ML · Local LLM tooling
 
 ## GitHub activity
 
