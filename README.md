@@ -137,12 +137,22 @@ My objective is not to translate C# syntax directly into Rust. It's to understan
 
 <div align="center">
 
-<a href="https://github.com/chasoliveira"><img src="https://github-readme-stats.vercel.app/api?username=chasoliveira&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub activity overview" height="170" /></a>
-<a href="https://github.com/chasoliveira?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasoliveira&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Most used languages across public repositories" height="170" /></a>
+<a href="https://github.com/chasoliveira">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=chasoliveira&amp;show_icons=true&amp;show=prs_merged,prs_reviewed&amp;hide_border=true&amp;hide_rank=true&amp;theme=dark_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=chasoliveira&amp;show_icons=true&amp;show=prs_merged,prs_reviewed&amp;hide_border=true&amp;hide_rank=true&amp;theme=light_github" alt="GitHub contribution, merged pull request and code review statistics" height="185" />
+  </picture>
+</a>
+<a href="https://github.com/chasoliveira?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=chasoliveira&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide_border=true&amp;theme=dark_github" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chasoliveira&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide_border=true&amp;theme=light_github" alt="Top programming languages in original public repositories" height="185" />
+  </picture>
+</a>
 
 </div>
 
-<sub>Third-party activity widgets can occasionally be unavailable; the projects and documentation above are the primary portfolio.</sub>
+<sub>Powered by [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended). Public repository activity only by default; private work is not represented. Language rankings measure repository code distribution, not proficiency. Third-party cards may occasionally be unavailable.</sub>
 
 ## Connect
 
